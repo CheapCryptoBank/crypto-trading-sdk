@@ -1,5 +1,5 @@
-# OKX Websocket Template built with PENDAX-SDK 
-https://github.com/CompendiumFi/PENDAX-SDK
+# CheapCryptoBank Crypto Trading SDK
+https://github.com/CheapCryptoBank/crypto-trading-sdk
 
 install required packages with ```npm install```
 

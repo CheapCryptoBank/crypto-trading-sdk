@@ -1,5 +1,5 @@
 {
-  "name": "crypto-trading-sdk",
+  "name": "cryptobank-trading-sdk",
   "version": "1.0.0",
   "description": "https://github.com/CheapCryptoBank/crypto-trading-sdk",
   "main": "index.js",
@@ -12,5 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "@compendiumfi/pendax": "^1.1.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheapCryptoBank/crypto-trading-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CheapCryptoBank/crypto-trading-sdk/issues"
+  },
+  "homepage": "https://github.com/CheapCryptoBank/crypto-trading-sdk#readme"
 }

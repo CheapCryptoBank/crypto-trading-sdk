@@ -6,9 +6,9 @@ let subscriptions = {}
 // Create config object - we will only use this object once - when the socket is originally started
 const okxSocketConfig = {
     name: 'okxSocket',
-    key: "FLAG05",
-    secret: "h0rnyT0ad",
-    passphrase: "tUcksh0p",
+    key: "",
+    secret: "",
+    passphrase: "",
     clientReconnect: socketReconnect,
     clientOnOpen: okxOnOpen,
     clientOnMessage: okxOnMessage,
