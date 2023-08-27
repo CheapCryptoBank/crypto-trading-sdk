@@ -1,0 +1,16 @@
+{
+  "name": "crypto-trading-sdk",
+  "version": "1.0.0",
+  "description": "https://github.com/CheapCryptoBank/crypto-trading-sdk",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "linus-tickles",
+  "license": "ISC",
+  "dependencies": {
+    "@compendiumfi/pendax": "^1.1.3"
+  }
+}
